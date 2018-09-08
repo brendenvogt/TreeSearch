@@ -60,5 +60,5 @@ if __name__ == "__main__":
 	loadGraph(urls)
 	print(graph)
 
-	crawlGraph("url",2)
+	crawlGraph("url",3)
 	print(seen)
